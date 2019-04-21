@@ -1,0 +1,4996 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 163,
+        "Lot": 1,
+        "Owner": "Elizabeth Alston et. Al.",
+        "Land Value": 33600,
+        "Improvement Value": 11400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45000,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 45000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56743491,
+          33.2093526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 163,
+        "Lot": 2,
+        "Owner": "Mrs. D. A. Housman Est. ",
+        "Land Value": 60000,
+        "Improvement Value": 17500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 77500,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 77500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56774068,
+          33.20936606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 163,
+        "Lot": 3,
+        "Owner": "J.H. Fitts, exec of 1st national bank",
+        "Land Value": 12000,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 18000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 18000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5676924,
+          33.20924937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 163,
+        "Lot": 4,
+        "Owner": "Mrs. Annie Fitts Est. ",
+        "Land Value": 26400,
+        "Improvement Value": 12000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 38400,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 38400,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56762803,
+          33.20911023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 164,
+        "Lot": 1,
+        "Owner": "Browns Department Store",
+        "Land Value": 36900,
+        "Improvement Value": 31750,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 68650,
+        "": "",
+        "Race": "White",
+        "Gender": "",
+        "Property Values": 68650,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56799281,
+          33.20964434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 164,
+        "Lot": "2 and 3",
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": 25200,
+        "Improvement Value": 20000,
+        "Improvements": "Brian Building",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45200,
+        "": "",
+        "Race": "White",
+        "Gender": "",
+        "Property Values": 45200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56783724,
+          33.20969819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 164,
+        "Lot": 4,
+        "Owner": "Moody & Parker",
+        "Land Value": 36000,
+        "Improvement Value": 29000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 65000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 65000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56756902,
+          33.20968024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 164,
+        "Lot": 5,
+        "Owner": "Mrs. D. A. Housman Est. ",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56781042,
+          33.20952315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 165,
+        "Lot": 1,
+        "Owner": "D.O. Parker Est. ",
+        "Land Value": 12000,
+        "Improvement Value": 6000,
+        "Improvements": "Central Dining(?)",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 18000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 18000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56734908,
+          33.20964209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 165,
+        "Lot": "2 and 3",
+        "Owner": "Mrs. Irene Parker",
+        "Land Value": 24600,
+        "Improvement Value": 14700,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 39300,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 39300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56726593,
+          33.20966453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 165,
+        "Lot": 4,
+        "Owner": "Mrs. Hester B. Rines",
+        "Land Value": 13200,
+        "Improvement Value": 6100,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 19300,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 19300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56717741,
+          33.20968922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 165,
+        "Lot": 5,
+        "Owner": "Mrs. Lucille Morris",
+        "Land Value": 12000,
+        "Improvement Value": 8300,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 20300,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 20300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5670889,
+          33.20970717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 165,
+        "Lot": "6 and 7",
+        "Owner": "City National Bank",
+        "Land Value": 38400,
+        "Improvement Value": 41820,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 80220,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 80220,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56700575,
+          33.20972961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 166,
+        "Lot": "1 and 2",
+        "Owner": "S Raymon",
+        "Land Value": 13000,
+        "Improvement Value": 15000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 28000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 28000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56678849,
+          33.20938177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 166,
+        "Lot": 3,
+        "Owner": "Marilou Rudolph",
+        "Land Value": 16000,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22000,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 22000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56697625,
+          33.20943339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 166,
+        "Lot": 4,
+        "Owner": "Mrs. Francis O'Conner",
+        "Land Value": 11600,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15600,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 15600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5670889,
+          33.20942441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 166,
+        "Lot": 5,
+        "Owner": "Wm E O'Connor",
+        "Land Value": 11200,
+        "Improvement Value": 6400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 17600,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 17600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56717205,
+          33.20939748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 166,
+        "Lot": 6,
+        "Owner": "A. C. Cade Est. ",
+        "Land Value": 11200,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15200,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 15200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56727129,
+          33.20939299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 167,
+        "Lot": 1,
+        "Owner": "James and Seaborn Mosely",
+        "Land Value": 22640,
+        "Improvement Value": 19680,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 42320,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 42320,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56615818,
+          33.20951418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 167,
+        "Lot": 2,
+        "Owner": "Mrs. Louise Mosely",
+        "Land Value": 13000,
+        "Improvement Value": 12000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 25000,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 25000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56650686,
+          33.20964434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 168,
+        "Lot": "1 and 2",
+        "Owner": "Mrs. Louise Mosely",
+        "Land Value": 28700,
+        "Improvement Value": 41500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 70200,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 70200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56655514,
+          33.20982387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 168,
+        "Lot": 3,
+        "Owner": "Marilou Rudolph",
+        "Land Value": 6820,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10320,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 10320,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56646931,
+          33.21009316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 168,
+        "Lot": 4,
+        "Owner": "T.C. McCorvey Est. ",
+        "Land Value": 6500,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 10500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56635666,
+          33.21013355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 168,
+        "Lot": 5,
+        "Owner": "R.H. Cochrane Jr. et als",
+        "Land Value": 21450,
+        "Improvement Value": 36000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 57450,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 57450,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56623328,
+          33.21018293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 169,
+        "Lot": 1,
+        "Owner": "R.H. Cochrane Jr. et als",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56608307,
+          33.2101156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 169,
+        "Lot": 2,
+        "Owner": "US Government Post Office",
+        "Land Value": "",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 0,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56578267,
+          33.21029962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 169,
+        "Lot": 3,
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": "see below",
+        "Improvement Value": "see below",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56567538,
+          33.21006623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 170,
+        "Lot": 1,
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": 11850,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 17850,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 17850,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56558955,
+          33.20990465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 170,
+        "Lot": 2,
+        "Owner": "George Bell",
+        "Land Value": 7400,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 11400,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 11400,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56536424,
+          33.20967127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 170,
+        "Lot": 3,
+        "Owner": "Mrs. Gladys Ward",
+        "Land Value": 2500,
+        "Improvement Value": 1990,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4490,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 4490,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56548762,
+          33.20965331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 170,
+        "Lot": 4,
+        "Owner": "T. B. Ward",
+        "Land Value": 12300,
+        "Improvement Value": 5000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 17300,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 17300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56585777,
+          33.20971166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 171,
+        "Lot": 1,
+        "Owner": "First National Bank Trustee",
+        "Land Value": "see lot 3, block 174",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56478488,
+          33.20990465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 171,
+        "Lot": 2,
+        "Owner": "Mrs. J.M. Wheat",
+        "Land Value": 15600,
+        "Improvement Value": 8000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 23600,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 23600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56510139,
+          33.20985528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 172,
+        "Lot": 1,
+        "Owner": "Genevieve Mallory and James B. Davis",
+        "Land Value": 15300,
+        "Improvement Value": 14470,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 29770,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 29770,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56492972,
+          33.21036694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 172,
+        "Lot": 2,
+        "Owner": "Frank Fitts",
+        "Land Value": 21700,
+        "Improvement Value": 37000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 58700,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 58700,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56520331,
+          33.21031757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 173,
+        "Lot": "1 and 2",
+        "Owner": "Alston Fitts et als",
+        "Land Value": 15370,
+        "Improvement Value": 10000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 25370,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 25370,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56444156,
+          33.21053749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 173,
+        "Lot": 3,
+        "Owner": "Genevieve Mallory and James B. Davis",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56472588,
+          33.21052852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 174,
+        "Lot": 1,
+        "Owner": "J.F. Alston Jr. et als",
+        "Land Value": 8380,
+        "Improvement Value": 7000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15380,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 15380,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56416261,
+          33.21016048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 174,
+        "Lot": 2,
+        "Owner": "L.T. Mosely",
+        "Land Value": 3500,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7000,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 7000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56432891,
+          33.21010663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 174,
+        "Lot": 3,
+        "Owner": "First National Bank Trustee",
+        "Land Value": 10500,
+        "Improvement Value": 1000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 11500,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 11500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56454349,
+          33.21005277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 175,
+        "Lot": 1,
+        "Owner": "Duckworth-Austin et als",
+        "Land Value": 5000,
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 5000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 5000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56341159,
+          33.2103849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 175,
+        "Lot": 2,
+        "Owner": "Mrs. M. B. Johnston",
+        "Land Value": 7500,
+        "Improvement Value": 8000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15500,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 15500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56366909,
+          33.21021434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 175,
+        "Lot": 3,
+        "Owner": "Alston Fitts et als",
+        "Land Value": "see below",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56381929,
+          33.21049261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 176,
+        "Lot": 1,
+        "Owner": "Alston Fitts et als",
+        "Land Value": 7500,
+        "Improvement Value": 9000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 16500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 16500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56392121,
+          33.21078883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 176,
+        "Lot": 2,
+        "Owner": "Miss Alice Wildman",
+        "Land Value": 6150,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10150,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 10150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56364763,
+          33.21088757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 177,
+        "Lot": 1,
+        "Owner": "Miss Lelia Harris ",
+        "Land Value": 6150,
+        "Improvement Value": 3000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 9150,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 9150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5633204,
+          33.21097285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 177,
+        "Lot": 2,
+        "Owner": "American Oil Co. ",
+        "Land Value": 7500,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 13500,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 13500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56303608,
+          33.21105364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 178,
+        "Lot": 1,
+        "Owner": "L.H. and John H. Anders",
+        "Land Value": 10300,
+        "Improvement Value": 12500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22800,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 22800,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56298244,
+          33.21058238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 179,
+        "Lot": 1,
+        "Owner": "J. F. Alston et als",
+        "Land Value": 2000,
+        "Improvement Value": 1150,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 3150,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 3150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56212413,
+          33.21074844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 179,
+        "Lot": 2,
+        "Owner": "J. F. Alston et als",
+        "Land Value": 6000,
+        "Improvement Value": 16500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 22500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56239772,
+          33.21065419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 179,
+        "Lot": 3,
+        "Owner": "Elks Oil Co. ",
+        "Land Value": "see below",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56252646,
+          33.21089655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 180,
+        "Lot": 1,
+        "Owner": "Elks Oil Co. ",
+        "Land Value": 6050,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 12050,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 12050,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5626713,
+          33.21123317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 180,
+        "Lot": 2,
+        "Owner": "J.O. Tanner",
+        "Land Value": 6150,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10150,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 10150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56236553,
+          33.21132293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 181,
+        "Lot": 1,
+        "Owner": "Mrs. Maude Webb",
+        "Land Value": 8250,
+        "Improvement Value": 5400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 13650,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 13650,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56192029,
+          33.2115249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 181,
+        "Lot": 2,
+        "Owner": "Marla C. Stephenson",
+        "Land Value": 3280,
+        "Improvement Value": 10000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 13280,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 13280,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5617969,
+          33.211296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 182,
+        "Lot": 1,
+        "Owner": "Marla C. Stephenson",
+        "Land Value": "see above",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56175399,
+          33.21113891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 182,
+        "Lot": 2,
+        "Owner": "J Riggs Stephenson",
+        "Land Value": 5000,
+        "Improvement Value": 15000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 20000,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 20000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56145895,
+          33.21092797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 182,
+        "Lot": 3,
+        "Owner": "Mrs. Eleanor M. Johnston",
+        "Land Value": 2400,
+        "Improvement Value": 2500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4900,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 4900,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56183445,
+          33.21090553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 183,
+        "Lot": "A",
+        "Owner": "Standard Oil Co",
+        "Land Value": 3800,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7300,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 7300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56071866,
+          33.21182111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 183,
+        "Lot": "B",
+        "Owner": "Dr. J.R. Shamblin",
+        "Land Value": 8000,
+        "Improvement Value": 37500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 45500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5609225,
+          33.21112994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 183,
+        "Lot": "C1",
+        "Owner": "Tuscaloosa Bank, Inc.",
+        "Land Value": "",
+        "Improvement Value": 22500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22500,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 22500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56100297,
+          33.2116371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 183,
+        "Lot": "C2",
+        "Owner": "A.M. Grimsley Jr. and Mrs. Sr. ",
+        "Land Value": 4400,
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4400,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 4400,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56068915,
+          33.2115406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 183,
+        "Lot": "D1",
+        "Owner": "J. P. and Nell Burchfield",
+        "Land Value": 3800,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7300,
+        "": "",
+        "Race": "White",
+        "Gender": "",
+        "Property Values": 7300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5614053,
+          33.21165505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1958,
+        "Block": 183,
+        "Lot": "D2",
+        "Owner": "Dr. J.R. Shamblin",
+        "Land Value": 2170,
+        "Improvement Value": 5000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7170,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 7170,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56128728,
+          33.21142167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 163,
+        "Lot": 1,
+        "Owner": "Elizabeth Alston et. Al.",
+        "Land Value": 33600,
+        "Improvement Value": 11400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45000,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 45000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56743491,
+          33.2093526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 163,
+        "Lot": 2,
+        "Owner": "Mrs. D. A. Housman Est. ",
+        "Land Value": 60000,
+        "Improvement Value": 17500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 77500,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 77500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56774068,
+          33.20936606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 163,
+        "Lot": 3,
+        "Owner": "J.H. Fitts",
+        "Land Value": 12000,
+        "Improvement Value": 4500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Improvement Value/Owner detail",
+        "Total Property Value": 16500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 16500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5676924,
+          33.20924937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 163,
+        "Lot": 4,
+        "Owner": "Mrs. Annie Fitts Est.,  exec of 1st national bank",
+        "Land Value": 26400,
+        "Improvement Value": 12000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner detail",
+        "Total Property Value": 38400,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 38400,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56762803,
+          33.20911023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 164,
+        "Lot": 1,
+        "Owner": "Browns Department Store",
+        "Land Value": 36900,
+        "Improvement Value": 31750,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 68650,
+        "": "",
+        "Race": "White",
+        "Gender": "M/F",
+        "Property Values": 68650,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56799281,
+          33.20964434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 164,
+        "Lot": "2 and 3",
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": 25200,
+        "Improvement Value": 20000,
+        "Improvements": "Brian Building",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45200,
+        "": "",
+        "Race": "White",
+        "Gender": "M/F",
+        "Property Values": 45200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56783724,
+          33.20969819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 164,
+        "Lot": 4,
+        "Owner": "Moody & Parker",
+        "Land Value": 36000,
+        "Improvement Value": 29000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 65000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 65000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56756902,
+          33.20968024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 164,
+        "Lot": 5,
+        "Owner": "Mrs. D. A. Housman Est. ",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56781042,
+          33.20952315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 165,
+        "Lot": 1,
+        "Owner": "D.O. Parker Est. ",
+        "Land Value": 12000,
+        "Improvement Value": 6000,
+        "Improvements": "Central Dining(?)",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 18000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 18000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56734908,
+          33.20964209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 165,
+        "Lot": "2 and 3",
+        "Owner": "Mrs. Irene Parker",
+        "Land Value": 24600,
+        "Improvement Value": 14700,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 39300,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 39300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56726593,
+          33.20966453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 165,
+        "Lot": 4,
+        "Owner": "Mrs. Hester B. Rines",
+        "Land Value": 13200,
+        "Improvement Value": 6100,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 19300,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 19300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56717741,
+          33.20968922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 165,
+        "Lot": 5,
+        "Owner": "Mrs. Lucille Morris",
+        "Land Value": 12000,
+        "Improvement Value": 8300,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 20300,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 20300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5670889,
+          33.20970717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 165,
+        "Lot": "6 and 7",
+        "Owner": "City National Bank",
+        "Land Value": 38400,
+        "Improvement Value": 41820,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 80220,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 80220,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56700575,
+          33.20972961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 166,
+        "Lot": "1 and 2",
+        "Owner": "S Raymon",
+        "Land Value": 13000,
+        "Improvement Value": 15000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 28000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 28000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56678849,
+          33.20938177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 166,
+        "Lot": 3,
+        "Owner": "Marilou Rudolph",
+        "Land Value": 16000,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22000,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 22000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56697625,
+          33.20943339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 166,
+        "Lot": 4,
+        "Owner": "Mrs. Francis O'Conner",
+        "Land Value": 11600,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15600,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 15600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5670889,
+          33.20942441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 166,
+        "Lot": 5,
+        "Owner": "Esther, Abe and Paul Applebaum",
+        "Land Value": 11200,
+        "Improvement Value": 6400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner",
+        "Total Property Value": 17600,
+        "": "",
+        "Race": "White",
+        "Gender": "M/F",
+        "Property Values": 17600,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56717205,
+          33.20939748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 166,
+        "Lot": 6,
+        "Owner": "A. C. Cade Est. ",
+        "Land Value": 11200,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15200,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 15200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56727129,
+          33.20939299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 167,
+        "Lot": 1,
+        "Owner": "James and Seaborn Mosely",
+        "Land Value": 22640,
+        "Improvement Value": 19680,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 42320,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 42320,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56615818,
+          33.20951418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 167,
+        "Lot": 2,
+        "Owner": "Mrs. Louise Mosely",
+        "Land Value": 7660,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 13660,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 13660,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56650686,
+          33.20964434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 168,
+        "Lot": "1 and 2",
+        "Owner": "Mrs. Louise Mosely",
+        "Land Value": 34040,
+        "Improvement Value": 41500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 75540,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 75540,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56655514,
+          33.20982387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 168,
+        "Lot": 3,
+        "Owner": "Marilou Rudolph, City National Bank of Tuscaloosa exect of",
+        "Land Value": 6820,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner Details",
+        "Total Property Value": 10320,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 10320,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56646931,
+          33.21009316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 168,
+        "Lot": 4,
+        "Owner": "T.C. McCorvey Est. ",
+        "Land Value": 6500,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 10500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56635666,
+          33.21013355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 168,
+        "Lot": 5,
+        "Owner": "R.H. Cochrane Jr. et als",
+        "Land Value": 21450,
+        "Improvement Value": 36000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 57450,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 57450,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56623328,
+          33.21018293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 169,
+        "Lot": 1,
+        "Owner": "R.H. Cochrane Jr. et als",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56608307,
+          33.2101156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 169,
+        "Lot": 2,
+        "Owner": "US Government Post Office",
+        "Land Value": "",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 0,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56578267,
+          33.21029962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 169,
+        "Lot": 3,
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": "see below",
+        "Improvement Value": "see below",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56567538,
+          33.21006623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 170,
+        "Lot": 1,
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": 11850,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 17850,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 17850,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56558955,
+          33.20990465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 170,
+        "Lot": 2,
+        "Owner": "J.J. Snipes",
+        "Land Value": 7400,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner",
+        "Total Property Value": 11400,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 11400,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56536424,
+          33.20967127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 170,
+        "Lot": 3,
+        "Owner": "Mrs. Gladys Ward",
+        "Land Value": 2500,
+        "Improvement Value": 1990,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4490,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 4490,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56548762,
+          33.20965331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 170,
+        "Lot": 4,
+        "Owner": "T. B. Ward",
+        "Land Value": 12300,
+        "Improvement Value": 5000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 17300,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 17300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56585777,
+          33.20971166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 171,
+        "Lot": 1,
+        "Owner": "First National Bank Trustee",
+        "Land Value": "see lot 3, block 174",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56478488,
+          33.20990465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 171,
+        "Lot": 2,
+        "Owner": "Mrs. J.M. Wheat",
+        "Land Value": 15600,
+        "Improvement Value": 8000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 23600,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 23600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56510139,
+          33.20985528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 172,
+        "Lot": 1,
+        "Owner": "Genevieve Mallory and James B. Davis",
+        "Land Value": 15300,
+        "Improvement Value": 14470,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 29770,
+        "": "",
+        "Race": "",
+        "Gender": "M/F",
+        "Property Values": 29770,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56492972,
+          33.21036694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 172,
+        "Lot": 2,
+        "Owner": "Frank Fitts",
+        "Land Value": 21700,
+        "Improvement Value": 37000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 58700,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 58700,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56520331,
+          33.21031757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 173,
+        "Lot": "1 and 2",
+        "Owner": "Alston Fitts et als",
+        "Land Value": 15370,
+        "Improvement Value": 10000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 25370,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 25370,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56444156,
+          33.21053749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 173,
+        "Lot": 3,
+        "Owner": "Genevieve Mallory and James B. Davis",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "",
+        "Gender": "M/F",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56472588,
+          33.21052852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 174,
+        "Lot": 1,
+        "Owner": "J.F. Alston Jr. et als",
+        "Land Value": 8380,
+        "Improvement Value": 7000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15380,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 15380,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56416261,
+          33.21016048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 174,
+        "Lot": 2,
+        "Owner": "L.T. Mosely",
+        "Land Value": 3500,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7000,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 7000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56432891,
+          33.21010663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 174,
+        "Lot": 3,
+        "Owner": "First National Bank Trustee",
+        "Land Value": 10500,
+        "Improvement Value": 1000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 11500,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 11500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56454349,
+          33.21005277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 175,
+        "Lot": 1,
+        "Owner": "Duckworth-Austin et als",
+        "Land Value": 5000,
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 5000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 5000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56341159,
+          33.2103849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 175,
+        "Lot": 2,
+        "Owner": "Mrs. M. B. Johnston",
+        "Land Value": 7500,
+        "Improvement Value": 8000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15500,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 15500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56366909,
+          33.21021434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 175,
+        "Lot": 3,
+        "Owner": "Alston Fitts et als",
+        "Land Value": "see below",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56381929,
+          33.21049261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 176,
+        "Lot": 1,
+        "Owner": "Alston Fitts et als",
+        "Land Value": 7500,
+        "Improvement Value": 9000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 16500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 16500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56392121,
+          33.21078883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 176,
+        "Lot": 2,
+        "Owner": "Miss Alice Wildman",
+        "Land Value": 6150,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10150,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 10150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56364763,
+          33.21088757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 177,
+        "Lot": 1,
+        "Owner": "Miss Lelia Harris ",
+        "Land Value": 6150,
+        "Improvement Value": 3000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 9150,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 9150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5633204,
+          33.21097285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 177,
+        "Lot": 2,
+        "Owner": "American Oil Co. ",
+        "Land Value": 7500,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 13500,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 13500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56303608,
+          33.21105364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 178,
+        "Lot": 1,
+        "Owner": "L.H. and John H. Anders",
+        "Land Value": 10300,
+        "Improvement Value": 12500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22800,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 22800,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56298244,
+          33.21058238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 179,
+        "Lot": 1,
+        "Owner": "J. F. Alston et als",
+        "Land Value": 2000,
+        "Improvement Value": 1150,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 3150,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 3150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56212413,
+          33.21074844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 179,
+        "Lot": 2,
+        "Owner": "J. F. Alston et als",
+        "Land Value": 6000,
+        "Improvement Value": 16500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 22500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56239772,
+          33.21065419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 179,
+        "Lot": 3,
+        "Owner": "H.F. Burchfield",
+        "Land Value": "see below",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56252646,
+          33.21089655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 180,
+        "Lot": 1,
+        "Owner": "H.F. Burchfield",
+        "Land Value": 6050,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner",
+        "Total Property Value": 12050,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 12050,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5626713,
+          33.21123317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 180,
+        "Lot": 2,
+        "Owner": "J.O. Tanner",
+        "Land Value": 6150,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10150,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 10150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56236553,
+          33.21132293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 181,
+        "Lot": 1,
+        "Owner": "Mrs. Maude Webb",
+        "Land Value": 8250,
+        "Improvement Value": 5400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 13650,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 13650,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56192029,
+          33.2115249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 181,
+        "Lot": 2,
+        "Owner": "Marla C. Stephenson",
+        "Land Value": 3280,
+        "Improvement Value": 10000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 13280,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 13280,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5617969,
+          33.211296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 182,
+        "Lot": 1,
+        "Owner": "Marla C. Stephenson",
+        "Land Value": "see above",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56175399,
+          33.21113891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 182,
+        "Lot": 2,
+        "Owner": "J Riggs Stephenson",
+        "Land Value": 5000,
+        "Improvement Value": 15000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 20000,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 20000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56145895,
+          33.21092797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 182,
+        "Lot": 3,
+        "Owner": "Mrs. Eleanor M. Johnston",
+        "Land Value": 2400,
+        "Improvement Value": 2500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4900,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 4900,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56183445,
+          33.21090553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 183,
+        "Lot": "A",
+        "Owner": "Standard Oil Co",
+        "Land Value": 3800,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7300,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 7300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56071866,
+          33.21182111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 183,
+        "Lot": "B",
+        "Owner": "Dr. J.R. Shamblin",
+        "Land Value": 8000,
+        "Improvement Value": 37500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 45500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5609225,
+          33.21112994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 183,
+        "Lot": "C1",
+        "Owner": "Tuscaloosa Bank, Inc.",
+        "Land Value": "",
+        "Improvement Value": 22500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22500,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 22500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56100297,
+          33.2116371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 183,
+        "Lot": "C2",
+        "Owner": "A.M. Grimsley Jr. and Mrs. Sr. ",
+        "Land Value": 4400,
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4400,
+        "": "",
+        "Race": "",
+        "Gender": "M/F",
+        "Property Values": 4400,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56068915,
+          33.2115406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 183,
+        "Lot": "D1",
+        "Owner": "J. P. Burchfield, Jr.",
+        "Land Value": 3800,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner (?)",
+        "Total Property Value": 7300,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 7300,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5614053,
+          33.21165505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1959,
+        "Block": 183,
+        "Lot": "D2",
+        "Owner": "Dr. J.R. Shamblin",
+        "Land Value": 2170,
+        "Improvement Value": 5000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7170,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 7170,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56128728,
+          33.21142167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 163,
+        "Lot": 1,
+        "Owner": "Elizabeth Alston et. Al.",
+        "Land Value": 33600,
+        "Improvement Value": 11400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45000,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 45000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56743491,
+          33.2093526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 163,
+        "Lot": 2,
+        "Owner": "Mrs. D. A. Housman Est. ",
+        "Land Value": 60000,
+        "Improvement Value": 17500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 77500,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 77500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56774068,
+          33.20936606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 163,
+        "Lot": 3,
+        "Owner": "J.H. Fitts,",
+        "Land Value": 12000,
+        "Improvement Value": 4500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 16500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 16500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5676924,
+          33.20924937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 163,
+        "Lot": 4,
+        "Owner": "Mrs. Annie Fitts Est., exec of 1st national bank",
+        "Land Value": 26400,
+        "Improvement Value": 12000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 38400,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 38400,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56762803,
+          33.20911023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 164,
+        "Lot": 1,
+        "Owner": "Browns Department Store",
+        "Land Value": 36900,
+        "Improvement Value": 31750,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 68650,
+        "": "",
+        "Race": "White",
+        "Gender": "M/F",
+        "Property Values": 68650,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56799281,
+          33.20964434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 164,
+        "Lot": "2 and 3",
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": 25200,
+        "Improvement Value": 20000,
+        "Improvements": "Brian Building",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 45200,
+        "": "",
+        "Race": "White",
+        "Gender": "M/F",
+        "Property Values": 45200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56783724,
+          33.20969819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 164,
+        "Lot": 4,
+        "Owner": "Moody & Parker",
+        "Land Value": 36000,
+        "Improvement Value": 29000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 65000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 65000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56756902,
+          33.20968024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 164,
+        "Lot": 5,
+        "Owner": "Mrs. D. A. Housman Est. ",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56781042,
+          33.20952315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 165,
+        "Lot": 1,
+        "Owner": "D.O. Parker Est. ",
+        "Land Value": 12000,
+        "Improvement Value": 6000,
+        "Improvements": "Central Dining(?)",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 18000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 18000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56734908,
+          33.20964209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 165,
+        "Lot": "2 and 3",
+        "Owner": "Mrs. Irene Parker",
+        "Land Value": 24600,
+        "Improvement Value": 14700,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 39300,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 39300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56726593,
+          33.20966453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 165,
+        "Lot": 4,
+        "Owner": "Mrs. Hester B. Rines",
+        "Land Value": 13200,
+        "Improvement Value": 6100,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 19300,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 19300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56717741,
+          33.20968922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 165,
+        "Lot": 5,
+        "Owner": "Mrs. Lucille Morris",
+        "Land Value": 12000,
+        "Improvement Value": 8300,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 20300,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 20300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5670889,
+          33.20970717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 165,
+        "Lot": "6 and 7",
+        "Owner": "City National Bank",
+        "Land Value": 38400,
+        "Improvement Value": 41820,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 80220,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 80220,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56700575,
+          33.20972961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 166,
+        "Lot": "1 and 2",
+        "Owner": "S Raymon",
+        "Land Value": 13000,
+        "Improvement Value": 15000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 28000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 28000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56678849,
+          33.20938177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 166,
+        "Lot": 3,
+        "Owner": "Marilou Rudolph",
+        "Land Value": 16000,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 22000,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 22000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56697625,
+          33.20943339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 166,
+        "Lot": 4,
+        "Owner": "Mrs. Francis O'Conner",
+        "Land Value": 11600,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15600,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 15600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5670889,
+          33.20942441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 166,
+        "Lot": 5,
+        "Owner": "Esther, Abe and Paul Applebaum",
+        "Land Value": 11200,
+        "Improvement Value": 6400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 17600,
+        "": "",
+        "Race": "White",
+        "Gender": "M/F",
+        "Property Values": 17600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56717205,
+          33.20939748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 166,
+        "Lot": 6,
+        "Owner": "A. C. Cade Est. ",
+        "Land Value": 11200,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15200,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 15200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56727129,
+          33.20939299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 167,
+        "Lot": 1,
+        "Owner": "James and Seaborn Mosely",
+        "Land Value": 22640,
+        "Improvement Value": 19680,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 42320,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 42320,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56615818,
+          33.20951418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 167,
+        "Lot": 2,
+        "Owner": "Mrs. Louise Mosely",
+        "Land Value": 9000,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 15000,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 15000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56650686,
+          33.20964434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 168,
+        "Lot": "1 and 2",
+        "Owner": "Mrs. Louise Mosely",
+        "Land Value": 34040,
+        "Improvement Value": 41500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 75540,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 75540,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56655514,
+          33.20982387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 168,
+        "Lot": 3,
+        "Owner": "Marilou Rudolph",
+        "Land Value": 7350,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 10850,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 10850,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56646931,
+          33.21009316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 168,
+        "Lot": 4,
+        "Owner": "T.C. McCorvey Est. City National Bank of Tuscaloosa trustee",
+        "Land Value": 6500,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 10500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56635666,
+          33.21013355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 168,
+        "Lot": 5,
+        "Owner": "W.M. Cochrane Agent",
+        "Land Value": 21700,
+        "Improvement Value": 31300,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner, Land, and Improvement Value",
+        "Total Property Value": 53000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 53000,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56623328,
+          33.21018293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 169,
+        "Lot": 1,
+        "Owner": "R.H. Cochrane Jr. et als",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56608307,
+          33.2101156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 169,
+        "Lot": 2,
+        "Owner": "US Government Post Office",
+        "Land Value": "",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 0,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56578267,
+          33.21029962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 169,
+        "Lot": 3,
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": "see below",
+        "Improvement Value": "see below",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56567538,
+          33.21006623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 170,
+        "Lot": 1,
+        "Owner": "Mrs. W. P. Bloom et al",
+        "Land Value": 14850,
+        "Improvement Value": 7150,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 22000,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 22000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56558955,
+          33.20990465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 170,
+        "Lot": 2,
+        "Owner": "J.J. Snipes",
+        "Land Value": 8000,
+        "Improvement Value": 5000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 13000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 13000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56536424,
+          33.20967127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 170,
+        "Lot": 3,
+        "Owner": "Mrs. Gladys Ward",
+        "Land Value": 2500,
+        "Improvement Value": 1990,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4490,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 4490,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56548762,
+          33.20965331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 170,
+        "Lot": 4,
+        "Owner": "T. B. Ward",
+        "Land Value": 13500,
+        "Improvement Value": 5000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 18500,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 18500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56585777,
+          33.20971166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 171,
+        "Lot": 1,
+        "Owner": "First National Bank Trustee",
+        "Land Value": "see lot 3, block 174",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56478488,
+          33.20990465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 171,
+        "Lot": 2,
+        "Owner": "Mrs. J.M. Wheat",
+        "Land Value": 18900,
+        "Improvement Value": 8000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 26900,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 26900,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56510139,
+          33.20985528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 172,
+        "Lot": 1,
+        "Owner": "Genevieve Mallory and James B. Davis",
+        "Land Value": 19380,
+        "Improvement Value": 12000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 31380,
+        "": "",
+        "Race": "",
+        "Gender": "M/F",
+        "Property Values": 31380,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56492972,
+          33.21036694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 172,
+        "Lot": 2,
+        "Owner": "Frank Fitts",
+        "Land Value": 25200,
+        "Improvement Value": 37000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 62200,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 62200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56520331,
+          33.21031757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 173,
+        "Lot": "1 and 2",
+        "Owner": "Alston Fitts et als",
+        "Land Value": 20000,
+        "Improvement Value": 8000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 28000,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 28000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56444156,
+          33.21053749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 173,
+        "Lot": 3,
+        "Owner": "Genevieve Mallory and James B. Davis",
+        "Land Value": "see above",
+        "Improvement Value": "see above",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "",
+        "Gender": "M/F",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56472588,
+          33.21052852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 174,
+        "Lot": 1,
+        "Owner": "J.F. Alston Jr. et als",
+        "Land Value": 10500,
+        "Improvement Value": 8450,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 18950,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 18950,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56416261,
+          33.21016048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 174,
+        "Lot": 2,
+        "Owner": "L.T. Mosely",
+        "Land Value": 3500,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 7000,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 7000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56432891,
+          33.21010663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 174,
+        "Lot": 3,
+        "Owner": "First National Bank Trustee",
+        "Land Value": 13260,
+        "Improvement Value": 750,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 14010,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 14010,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56454349,
+          33.21005277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 175,
+        "Lot": 1,
+        "Owner": "Duckworth-Austin et als",
+        "Land Value": 5740,
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 5740,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 5740,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56341159,
+          33.2103849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 175,
+        "Lot": 2,
+        "Owner": "Mrs. M. B. Johnston",
+        "Land Value": 7500,
+        "Improvement Value": 8000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 15500,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 15500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56366909,
+          33.21021434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 175,
+        "Lot": 3,
+        "Owner": "Alston Fitts et als",
+        "Land Value": "see below",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56381929,
+          33.21049261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 176,
+        "Lot": 1,
+        "Owner": "Alston Fitts et als",
+        "Land Value": 10250,
+        "Improvement Value": 9000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 19250,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 19250,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56392121,
+          33.21078883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 176,
+        "Lot": 2,
+        "Owner": "Miss Alice Wildman",
+        "Land Value": 6150,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 10150,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 10150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56364763,
+          33.21088757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 177,
+        "Lot": 1,
+        "Owner": "Miss Lelia Harris ",
+        "Land Value": 6150,
+        "Improvement Value": 3000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 9150,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 9150,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5633204,
+          33.21097285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 177,
+        "Lot": 2,
+        "Owner": "American Oil Co. ",
+        "Land Value": 10250,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 16250,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 16250,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56303608,
+          33.21105364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 178,
+        "Lot": 1,
+        "Owner": "L.H. and John H. Anders",
+        "Land Value": 10850,
+        "Improvement Value": 12500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 23350,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 23350,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56298244,
+          33.21058238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 179,
+        "Lot": 1,
+        "Owner": "J.F. Alston Jr. et als",
+        "Land Value": 2000,
+        "Improvement Value": 1150,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner",
+        "Total Property Value": 3150,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 3150,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56212413,
+          33.21074844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 179,
+        "Lot": 2,
+        "Owner": "J.F. Alston Jr. et als",
+        "Land Value": 9900,
+        "Improvement Value": 16500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner, Land Value",
+        "Total Property Value": 26400,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 26400,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56239772,
+          33.21065419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 179,
+        "Lot": 3,
+        "Owner": "H.F. Burchfield",
+        "Land Value": "see below",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56252646,
+          33.21089655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 180,
+        "Lot": 1,
+        "Owner": "H.F. Burchfield",
+        "Land Value": 8200,
+        "Improvement Value": 6000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 14200,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 14200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5626713,
+          33.21123317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 180,
+        "Lot": 2,
+        "Owner": "J.O. Tanner",
+        "Land Value": 8200,
+        "Improvement Value": 4000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 12200,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 12200,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56236553,
+          33.21132293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 181,
+        "Lot": 1,
+        "Owner": "Mrs. Maude Webb",
+        "Land Value": 8875,
+        "Improvement Value": 5400,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 14275,
+        "": "",
+        "Race": "",
+        "Gender": "Female",
+        "Property Values": 14275,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56192029,
+          33.2115249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 181,
+        "Lot": 2,
+        "Owner": "Marla C. Stephenson",
+        "Land Value": 4500,
+        "Improvement Value": 10000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 14500,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 14500,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5617969,
+          33.211296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 182,
+        "Lot": 1,
+        "Owner": "Marla C. Stephenson",
+        "Land Value": "see above",
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": "#VALUE!",
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": "",
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56175399,
+          33.21113891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 182,
+        "Lot": 2,
+        "Owner": "J Riggs Stephenson",
+        "Land Value": 6000,
+        "Improvement Value": 14000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 20000,
+        "": "",
+        "Race": "",
+        "Gender": "Male",
+        "Property Values": 20000,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56145895,
+          33.21092797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 182,
+        "Lot": 3,
+        "Owner": "Mrs. Eleanor M. Johnston",
+        "Land Value": 2400,
+        "Improvement Value": 2500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "",
+        "Total Property Value": 4900,
+        "": "",
+        "Race": "White",
+        "Gender": "Female",
+        "Property Values": 4900,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56183445,
+          33.21090553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 183,
+        "Lot": "A",
+        "Owner": "Standard Oil Co",
+        "Land Value": 3800,
+        "Improvement Value": 4800,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 8600,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 8600,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56071866,
+          33.21182111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 183,
+        "Lot": "B",
+        "Owner": "Dr. J.R. Shamblin",
+        "Land Value": 11550,
+        "Improvement Value": 37500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land and Improvement Value",
+        "Total Property Value": 49050,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 49050,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5609225,
+          33.21112994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 183,
+        "Lot": "C1",
+        "Owner": "City National Bank of Tuscaloosa",
+        "Land Value": "",
+        "Improvement Value": 22500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Owner",
+        "Total Property Value": 22500,
+        "": "",
+        "Race": "",
+        "Gender": "",
+        "Property Values": 22500,
+        "Change in Ownership": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56100297,
+          33.2116371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 183,
+        "Lot": "C2",
+        "Owner": "A.M. Grimsley Jr. and Mrs. Sr. ",
+        "Land Value": 8800,
+        "Improvement Value": "",
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 8800,
+        "": "",
+        "Race": "",
+        "Gender": "M/F",
+        "Property Values": 8800,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56068915,
+          33.2115406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 183,
+        "Lot": "D1",
+        "Owner": "J. P. Burchfield, Jr.",
+        "Land Value": 4800,
+        "Improvement Value": 3500,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 8300,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 8300,
+        "Change in Ownership": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5614053,
+          33.21165505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1960,
+        "Block": 183,
+        "Lot": "D2",
+        "Owner": "Dr. J.R. Shamblin",
+        "Land Value": 3100,
+        "Improvement Value": 5000,
+        "Improvements": "",
+        "Change (REVISIT AFTER 1957)": "Land Value",
+        "Total Property Value": 8100,
+        "": "",
+        "Race": "White",
+        "Gender": "Male",
+        "Property Values": 8100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56128728,
+          33.21142167
+        ]
+      }
+    }
+  ]
+}
